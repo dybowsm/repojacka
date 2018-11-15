@@ -1,0 +1,2 @@
+to jest  1 linia
+to jest druga linia
